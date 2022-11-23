@@ -1,4 +1,4 @@
-package dz6;
+package dz7;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
